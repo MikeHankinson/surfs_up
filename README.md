@@ -3,10 +3,8 @@
 ## Purpose
 Amazing Prime Video is a platform for streaming movies and TV shows. The project's goal is to develop and algorithm to predict which low budget movies will beome popular, beforehand.  The end goal is to purchase streaming rights at a bargain.   
 
-## Data Sources
-Data was extracted from the following 2 sources:
-1. Wikipedia (for all movies released since 1990)
-2. Movieland website's rating data.  
+## Data Source
+Weather data was provided by W. Avy in the form of an sqlite file   ![Link](/hawaii.sqlite)
 
 ## Deliverables 
 1. Write an ETL Function to Read Three Data Files. (Python in Jupyter Notebook)
