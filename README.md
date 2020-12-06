@@ -6,6 +6,11 @@ To evaluate, based upon weather patterns, whether Oahu island is a good location
 ## Data Source
 Weather data was provided by W. Avy in the form of an sqlite file   ![Link](/hawaii.sqlite).
 
+## Analysis
+Tools include:
+1. SQLAlchemy
+3. Python programming in Virtual Studio Code.  Code attached ![Link](/SurfsUp_Challenge.ipynb).
+
 ## Deliverables 
 1. Determine the Summary Statistics of Temperature for the month of June (aggregated 2010-2017) -- Table 1
 2. Determine the Summary Statistics of Temperature for December (aggregated 2010-2017) -- Table 2
