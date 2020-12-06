@@ -42,6 +42,7 @@ Located within this GitHub repository:
 <br>
 <br>
 <br>
+
 | Statistic     | Temperature   |
 | ------------- | ------------- |
 | Count         |  1517.000000  |
@@ -54,13 +55,16 @@ Located within this GitHub repository:
 | max	          |    83.000000  |
 <br>
 <br>
+
 ### Table 2:  December Temperatures: 2010-2017 Oahu Island
 <br>
 <br>
 <br>
+
 ![Fig_1](2016_Precipitation.PNG)
 <br>
 <br>
+
 ### Fig. 1:  Precipitation: 2016 Oahu Island
 <br>
 <br>
@@ -69,6 +73,7 @@ Located within this GitHub repository:
 ![Fig_2](2016_Temperatures.PNG)
 <br>
 <br>
+
 ### Fig. 2:  Temperature: 2016 Oahu Island
 <br>
 <br>
