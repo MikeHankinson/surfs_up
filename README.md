@@ -28,14 +28,14 @@ Located within this GitHub repository:
 ![Fig_1](2016_Precipitation.PNG)
 <br>
 <br>
-**Fig. 1:  Precipitation: 2016 Oahu Island **
+**Fig. 1:  Precipitation: 2016 Oahu Island
 <br>
 <br>
 <br>
 ![Fig_2](2016_Temperatures.PNG)
 <br>
 <br>
-**Fig. 2:  Temperature: 2016 Oahu Island **
+**Fig. 2:  Temperature: 2016 Oahu Island
 <br>
 <br>
 <br>
