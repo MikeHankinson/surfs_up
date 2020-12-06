@@ -7,18 +7,10 @@ To evaluate, based upon weather patterns, whether Oahu island is a good location
 Weather data was provided by W. Avy in the form of an sqlite file   ![Link](/hawaii.sqlite).
 
 ## Deliverables 
-1. Determine the Summary Statistics of Temperature for the month of June (aggregated 201 - 201)
-2. Determine the Summary Statistics of Temperature for December
-3. Additional Querry: Precipitation in 2016 on Oahu Island
-4. Additional Querry: Temperature in 2016 on Oahu Island
-
-## Working Files  
-
-
-
-## Data Files 
-Located within this GitHub repository:
-1. 
+1. Determine the Summary Statistics of Temperature for the month of June (aggregated 2010-2017) -- Table 1
+2. Determine the Summary Statistics of Temperature for December (aggregated 2010-2017) -- Table 2
+3. Additional Querry: Precipitation in 2016 on Oahu Island -- Fig. 1
+4. Additional Querry: Temperature in 2016 on Oahu Island -- Fig. 2
 
 
 ----------------------------------------------------------------------------------
@@ -38,6 +30,7 @@ Located within this GitHub repository:
 | max	          |    85.000000  |
 <br>
 <br>
+
 ### Table 1:  June Temperatures: 2010-2017 Oahu Island
 <br>
 <br>
