@@ -25,17 +25,19 @@ Located within this GitHub repository:
 ### Appendix of Figures and Tables
 ----------------------------------------------------------------------------------
 
-![Fig_1](Resources/movies_query.png)
+![Fig_1](2016_Precipitation.PNG)
+
+
 <br>
 <br>
-**Fig. 1:  Movies Query (6,052 Rows)**
+**Fig. 1:  Precipitation: 2016 Oahu Island **
 <br>
 <br>
 <br>
-![Fig_2](Resources/ratings_query.PNG)
+![Fig_2](2016_Temperatures.PNG)
 <br>
 <br>
-**Fig. 2:  Ratings Query (26,024,289 Rows)**
+**Fig. 2:  Temperature: 2016 Oahu Island **
 <br>
 <br>
 <br>
