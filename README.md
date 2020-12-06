@@ -36,7 +36,7 @@ Tools include:
 <br>
 <br>
 
-### Table 1:  June Temperatures: 2010-2017 Oahu Island
+### Table 1:  June Temperatures - 2010-2017 Oahu Island
 <br>
 <br>
 <br>
@@ -54,7 +54,7 @@ Tools include:
 <br>
 <br>
 
-### Table 2:  December Temperatures: 2010-2017 Oahu Island
+### Table 2:  December Temperatures - 2010-2017 Oahu Island
 <br>
 <br>
 <br>
@@ -63,7 +63,7 @@ Tools include:
 <br>
 <br>
 
-### Fig. 1:  Precipitation: 2016 Oahu Island
+### Fig. 1:  Precipitation - 2016 Oahu Island
 <br>
 <br>
 <br>
@@ -72,7 +72,7 @@ Tools include:
 <br>
 <br>
 
-### Fig. 2:  Temperature: 2016 Oahu Island
+### Fig. 2:  Temperature - 2016 Oahu Island
 <br>
 <br>
 <br>
