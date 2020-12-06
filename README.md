@@ -1,7 +1,7 @@
 # Surfs Up
 
 ## Purpose
-   
+To evaluate, based upon weather patterns, whether Oahu island is a good location to open a surf/ice cream shop (Surf 'n Shake).   
 
 ## Data Source
 Weather data was provided by W. Avy in the form of an sqlite file   ![Link](/hawaii.sqlite).
@@ -32,6 +32,7 @@ Located within this GitHub repository:
 <br>
 <br>
 <br>
+
 ![Fig_2](2016_Temperatures.PNG)
 <br>
 <br>
