@@ -26,8 +26,6 @@ Located within this GitHub repository:
 ----------------------------------------------------------------------------------
 
 ![Fig_1](2016_Precipitation.PNG)
-
-
 <br>
 <br>
 **Fig. 1:  Precipitation: 2016 Oahu Island **
